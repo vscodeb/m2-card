@@ -1,0 +1,32 @@
+body {
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.vlad-img {
+  width: 150px;
+}
+
+.border-blue {
+  border: 2px dotted blue;
+}
+
+.card {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  color: #f1e9db;
+  background-color: #07020d;
+  border-bottom: 10px solid #716a5c;
+}
+
+.red-sqrt {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-radius: 100px;
+  margin: 30px auto;
+}
